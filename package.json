@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "dependencies": {
+    "@types/events": "^3.0.0",
+    "@types/node": "^20.4.4",
+    "events": "3.3.0"
+  }
+}
